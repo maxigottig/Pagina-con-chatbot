@@ -9,5 +9,5 @@ Simulación de soporte técnico con Chatbot de ChatGPT integrado.
 
 ## Previsualización
 
-[preview](![preview](https://github.com/maxigottig/Pagina-con-chatbot/assets/123521643/71f2f3dd-30d5-47d7-bd27-f8fc5b2d2bbd)
-)
+[preview](https://github.com/maxigottig/Pagina-con-chatbot/assets/123521643/71f2f3dd-30d5-47d7-bd27-f8fc5b2d2bbd)
+
